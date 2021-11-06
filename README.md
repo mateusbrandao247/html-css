@@ -2,4 +2,4 @@
  
 Gerenciando repositorios
 
-<a href="https://mateusbrandao247.github.io/html-css/d10/android.html">História do Mascote do Android</a>
+<a href="https://mateusbrandao247.github.io/projeto-android">História do Mascote do Android</a>
